@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Siyao 
+
+<img width="334" alt="Screenshot 2023-06-22 at 13 48 15" src="https://github.com/siyaoxing/siyaoxing/assets/119664134/7f9dd5da-fad8-4a7f-83d9-48073e2c0773">
+
+
+- 🔭 I’m currently working on creating a website for my wedding next year 
+- 🌱 I’m currently learning Python, Javascript, HTML, CSS 
+- 👯 I’m looking to collaborate on anything I can apply my newly found skills to!
+- 📫 How to reach me: by email - sxing@hotmail.co.uk
+- ⚡ Fun fact: I have a medical degree and trained to specialize in gastroenterology 
 
 <!--
 **siyaoxing/siyaoxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
